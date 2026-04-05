@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — Resinating Memories</title>
+  <meta name="description" content="Get in touch with Resinating Memories. Located in Marlboro, New Jersey. Email resinatingmemories427@gmail.com.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════ NAVIGATION -->
+  <nav class="nav">
+    <a href="index.html">
+      <img src="logo.png" alt="Resinating Memories" class="nav-logo">
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="store.html">Shop</a></li>
+      <li><a href="faqs.html">FAQs</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="nav-cart" aria-label="Open cart">
+        🛒
+        <span class="cart-badge">0</span>
+      </button>
+      <button class="hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════════════════ PAGE HERO -->
+  <div class="page-top">
+    <div class="page-hero">
+      <p class="page-hero-label">Let's Connect</p>
+      <h1 class="page-hero-title">Get in <em class="italic">Touch</em></h1>
+      <p class="page-hero-sub">Questions, custom requests, or just want to say hello?</p>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════ CONTACT -->
+  <section class="section section-white">
+    <div class="container">
+      <div class="contact-layout">
+
+        <!-- Contact Info -->
+        <div>
+          <h2 class="contact-info-title">
+            We'd love to<br><em style="font-style:italic">hear from you</em>
+          </h2>
+
+          <div class="contact-detail">
+            <span class="contact-icon">✉️</span>
+            <div class="contact-text">
+              <strong>Email</strong>
+              <a href="mailto:resinatingmemories427@gmail.com">
+                resinatingmemories427@gmail.com
+              </a>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <span class="contact-icon">📍</span>
+            <div class="contact-text">
+              <strong>Location</strong>
+              Marlboro, New Jersey<br>
+              <span style="font-size:0.85rem;font-style:italic">Drop-off &amp; pick-up service only</span>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <span class="contact-icon">📸</span>
+            <div class="contact-text">
+              <strong>Instagram</strong>
+              <a href="https://www.instagram.com/resinatingmemories_/" target="_blank" rel="noopener">
+                @resinatingmemories_
+              </a>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <span class="contact-icon">⏱️</span>
+            <div class="contact-text">
+              <strong>Response Time</strong>
+              Typically within 1–2 business days
+            </div>
+          </div>
+
+          <div style="margin-top:2.5rem;padding:1.5rem;background:var(--offwhite-dark);border-left:3px solid var(--pink)">
+            <p style="font-size:0.85rem;color:var(--text-light);font-style:italic;line-height:1.7">
+              Ready to place an order? Browse our shop and add items to your cart — then submit
+              an inquiry through checkout. Marissa will confirm everything with you directly.
+            </p>
+            <a href="store.html" style="display:inline-block;margin-top:1rem;color:var(--brown);font-size:0.88rem">
+              Browse the Shop →
+            </a>
+          </div>
+        </div>
+
+        <!-- Contact Form (Formspree) -->
+        <div class="checkout-card">
+          <h2 class="checkout-card-title">Send a Message</h2>
+
+          <form
+            id="contact-form"
+            action="https://formspree.io/f/meeppglg"
+            method="POST"
+            novalidate>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="contact-name">Your Name *</label>
+                <input type="text" id="contact-name" name="name" required placeholder="Jane Smith">
+              </div>
+              <div class="form-group">
+                <label for="contact-email">Email Address *</label>
+                <input type="email" id="contact-email" name="email" required placeholder="jane@example.com">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="contact-subject">Subject</label>
+              <input type="text" id="contact-subject" name="subject"
+                     placeholder="e.g. Custom bouquet inquiry, Pricing question…">
+            </div>
+
+            <div class="form-group">
+              <label for="contact-message">Message *</label>
+              <textarea id="contact-message" name="message" required
+                style="min-height:140px"
+                placeholder="Tell Marissa what you have in mind — your event, the pieces you're interested in, any special details…"></textarea>
+            </div>
+
+            <!-- Formspree honeypot (anti-spam) -->
+            <input type="text" name="_gotcha" style="display:none">
+            <!-- Redirect after submit -->
+            <input type="hidden" name="_next" value="contact.html?sent=true">
+
+            <button type="submit" class="btn-submit" id="contact-submit">Send Message</button>
+
+          </form>
+
+          <!-- Success banner (shown via URL param) -->
+          <div id="contact-success"
+               style="display:none;text-align:center;padding:2rem;background:var(--offwhite);margin-top:1rem;border:1px solid var(--offwhite-dark)">
+            <div style="font-size:2rem;margin-bottom:0.8rem">🌸</div>
+            <h3 style="color:var(--brown);margin-bottom:0.5rem">Message Sent!</h3>
+            <p style="font-size:0.88rem;color:var(--text-light);font-style:italic">
+              Thank you for reaching out. Marissa will be in touch within 1–2 business days.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════ FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div>
+          <img src="logo.png" alt="Resinating Memories" class="footer-logo">
+          <p class="footer-tagline">Handcrafted resin art preserving<br>your most precious memories.</p>
+          <div class="footer-social">
+            <a href="https://www.instagram.com/resinatingmemories_/" target="_blank" rel="noopener" aria-label="Instagram">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+            </a>
+          </div>
+        </div>
+        <div>
+          <p class="footer-heading">Navigate</p>
+          <ul class="footer-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="store.html">Shop</a></li>
+            <li><a href="faqs.html">FAQs</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="footer-heading">Get in Touch</p>
+          <p class="footer-contact-item">
+            <a href="mailto:resinatingmemories427@gmail.com">resinatingmemories427@gmail.com</a>
+          </p>
+          <p class="footer-contact-item">Marlboro, New Jersey</p>
+          <p class="footer-contact-item">Drop-off &amp; pick-up service</p>
+        </div>
+      </div>
+      <p class="footer-bottom">
+        &copy; <span id="year"></span> Resinating Memories. All rights reserved.
+      </p>
+    </div>
+  </footer>
+
+  <!-- CART DRAWER -->
+  <div class="cart-overlay"></div>
+  <div class="cart-drawer">
+    <div class="cart-header">
+      <span class="cart-title">Your Cart</span>
+      <button class="cart-close" aria-label="Close cart">×</button>
+    </div>
+    <div class="cart-items"></div>
+    <div class="cart-footer">
+      <div class="cart-total">
+        <span>Total</span>
+        <span class="cart-total-amount">$0</span>
+      </div>
+      <p class="cart-total-note">This is an inquiry cart — no payment is taken online</p>
+      <a href="checkout.html" class="btn-checkout-link">Proceed to Checkout</a>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Show success message if redirected back after Formspree submit
+    if (window.location.search.includes('sent=true')) {
+      document.getElementById('contact-success').style.display = 'block';
+      document.getElementById('contact-form').style.display = 'none';
+    }
+  </script>
+  <script src="js/products.js"></script>
+  <script src="js/cart.js"></script>
+</body>
+</html>
