@@ -139,6 +139,10 @@ const IMAGE_MANIFEST = {
     "images/Rectangle Tray 13\"/6EA73078-93C2-4A48-97F2-F9207945CAB3.webp",
     "images/Rectangle Tray 13\"/7FBF9023-224B-44BE-BEDD-C6912A960607.webp",
     "images/Rectangle Tray 13\"/9B35500F-D60E-4DDF-A9DF-34509CEA7C8A.webp",
+    "images/Rectangle Tray 13\"/021.webp",
+    "images/Rectangle Tray 13\"/022.webp",
+    "images/Rectangle Tray 13\"/023.webp",
+    "images/Rectangle Tray 13\"/024.webp",
     "images/Rectangle Tray 13\"/117D124B-60B1-439B-ACAF-BA0C86C6F39B.webp",
     "images/Rectangle Tray 13\"/128A35A9-A207-4EC0-A0F8-BD18BCA801F9.webp",
     "images/Rectangle Tray 13\"/54343E95-D7A9-4BD3-9A97-39859701AA47.webp",
@@ -154,11 +158,7 @@ const IMAGE_MANIFEST = {
     "images/Rectangle Tray 13\"/IMG_0656.webp",
     "images/Rectangle Tray 13\"/IMG_0667.webp",
     "images/Rectangle Tray 13\"/IMG_1908.webp",
-    "images/Rectangle Tray 13\"/IMG_9666.webp",
-    "images/Rectangle Tray 13\"/Screenshot 2026-04-04 at 11.29.17 PM.webp",
-    "images/Rectangle Tray 13\"/Screenshot 2026-04-04 at 11.29.58 PM.webp",
-    "images/Rectangle Tray 13\"/Screenshot 2026-04-04 at 11.30.07 PM.webp",
-    "images/Rectangle Tray 13\"/Screenshot 2026-04-04 at 11.30.19 PM.webp"
+    "images/Rectangle Tray 13\"/IMG_9666.webp"
   ],
   "Round Coasters": [
     "images/Round Coasters/0-1.jpg",
