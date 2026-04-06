@@ -521,7 +521,7 @@ const PRODUCTS = [
     nameRegular: 'Wooden',
     nameItalic: 'Coasters',
     desc: 'Handcrafted wooden coasters with preserved flowers set in resin.',
-    basePrice: 50,
+    basePrice: 60,
     image: 'images/Wooden Coasters/2E6D66D8-64E0-449A-BDCD-730FBEB4D3A2.jpg',
     images: [
       'images/Wooden Coasters/2E6D66D8-64E0-449A-BDCD-730FBEB4D3A2.jpg',
@@ -534,8 +534,8 @@ const PRODUCTS = [
         required: true,
         priceByValue: true,
         choices: [
-          { label: 'Set of 4  —  $125', value: 'Set of 4', price: 125 },
-          { label: 'Set of 2  —  $50',  value: 'Set of 2', price: 50  }
+          { label: 'Set of 4  —  $100', value: 'Set of 4', price: 100 },
+          { label: 'Set of 2  —  $60',  value: 'Set of 2', price: 60  }
         ]
       },
       {
