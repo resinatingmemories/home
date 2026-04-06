@@ -1,22 +1,13 @@
 // ══════════════════════════════════════════════════
-// EMAILJS CONFIGURATION
+// WEB3FORMS CONFIGURATION (free at web3forms.com)
 //
-// Setup steps (free at emailjs.com):
-// 1. Create a free account at https://www.emailjs.com
-// 2. Add a Gmail service → copy the Service ID
-// 3. Create a new Email Template using these variables:
-//      {{customer_name}}   {{customer_email}}
-//      {{customer_phone}}  {{customer_address}}
-//      {{cart_summary}}    {{total}}   {{notes}}
-//    Set "To Email" in the template to: resinatingmemories427@gmail.com
-// 4. Copy the Template ID and your Public Key (Account > API Keys)
-// 5. Replace the three values below
+// Setup steps:
+// 1. Go to https://web3forms.com
+// 2. Enter resinatingmemories427@gmail.com → Create Access Key
+// 3. Copy the key from the email they send you
+// 4. Paste it below
 // ══════════════════════════════════════════════════
-const EMAILJS_CONFIG = {
-  serviceId:  'service_q3w0yq8',    // e.g. 'service_abc123'
-  templateId: 'template_gw0ejzq',   // e.g. 'template_xyz789'
-  publicKey:  '0zuPZ9lXCLmkgQDJcFqs4'     // e.g. 'AbCdEfGhIjKlMnOpQr'
-};
+const WEB3FORMS_KEY = '6276330c-9441-4667-b52a-1f1ab18bcd60';
 
 // ── Cart State ──────────────────────────────────
 let cart = [];
