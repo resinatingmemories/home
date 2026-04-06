@@ -15,11 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Init EmailJS if configured
-  if (typeof emailjs !== 'undefined' &&
-      EMAILJS_CONFIG.publicKey !== 'YOUR_PUBLIC_KEY') {
-    emailjs.init(EMAILJS_CONFIG.publicKey);
-  }
+  // (Web3Forms requires no initialization)
 
   // Store page
   if (document.getElementById('products-grid')) {
@@ -32,8 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
     renderCheckoutSummary();
     setupCheckoutForm();
 
-    // Show setup notice if EmailJS not configured
-    if (EMAILJS_CONFIG.serviceId === 'YOUR_SERVICE_ID') {
+    // Show setup notice if Web3Forms not configured
+    if (WEB3FORMS_KEY === 'YOUR_ACCESS_KEY') {
       const notice = document.querySelector('.setup-notice');
       if (notice) notice.style.display = 'block';
     }
@@ -288,36 +284,37 @@ function setupCheckoutForm() {
              (opts ? `\n   ${opts}` : '');
     }).join('\n\n');
 
-    const templateParams = {
-      to_email:         'resinatingmemories427@gmail.com',
-      customer_name:    data.name,
-      customer_email:   data.email,
-      customer_phone:   data.phone || 'Not provided',
-      customer_address: data.address || 'Not provided',
-      notes:            data.notes || 'None',
-      cart_summary:     cartText,
-      total:            `$${getCartTotal()}`,
-      reply_to:         data.email
-    };
-
     try {
-      const isDemoMode = EMAILJS_CONFIG.serviceId === 'YOUR_SERVICE_ID';
-
-      if (isDemoMode) {
-        // Demo: simulate send
+      if (WEB3FORMS_KEY === 'YOUR_ACCESS_KEY') {
+        // Demo mode: simulate send
         await new Promise(r => setTimeout(r, 1200));
         showOrderSuccess(data.name);
       } else {
-        await emailjs.send(
-          EMAILJS_CONFIG.serviceId,
-          EMAILJS_CONFIG.templateId,
-          templateParams
-        );
+        const res = await fetch('https://api.web3forms.com/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            access_key:  WEB3FORMS_KEY,
+            subject:     `New Order Inquiry from ${data.name} — Resinating Memories`,
+            from_name:   data.name,
+            reply_to:    data.email,
+            customer_name:    data.name,
+            customer_email:   data.email,
+            customer_phone:   data.phone    || 'Not provided',
+            customer_address: data.address  || 'Not provided',
+            event:            data.event    || 'Not provided',
+            notes:            data.notes    || 'None',
+            cart_summary:     cartText,
+            total:            `$${getCartTotal()}`
+          })
+        });
+        const result = await res.json();
+        if (!result.success) throw new Error(result.message);
         showOrderSuccess(data.name);
       }
     } catch (err) {
-      console.error('EmailJS error:', err);
-      btn.textContent = 'Place Order';
+      console.error('Order send error:', err);
+      btn.textContent = 'Place Order Inquiry';
       btn.disabled = false;
       alert(
         'There was a problem sending your order.\n' +
