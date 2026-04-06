@@ -217,15 +217,15 @@ const IMAGE_MANIFEST = {
     "images/Triangle Ring Holder/02.avif"
   ],
   "Trinket Tray": [
-    "images/Trinket Tray/4BE8EC92-5CD9-4D45-858A-6A0324328CD2.jpg",
-    "images/Trinket Tray/A3635D5C-AAA2-4D23-88B8-83414DF7EF06.jpg",
-    "images/Trinket Tray/D23D5E6D-696F-4C2C-B05B-114B74745186.jpg",
-    "images/Trinket Tray/e3ab39_6c0527d57d7f42efb756cdd694e5dc54~mv2.avif",
-    "images/Trinket Tray/e3ab39_8b3c217aea364fcb8f3a6d2d059509bb~mv2.avif",
-    "images/Trinket Tray/e3ab39_401377ce94ed4def8bc9ea2d72d999a0~mv2.avif",
-    "images/Trinket Tray/e3ab39_aa6e2d1ca4bb47238d6eae10f72dd46f~mv2.avif",
-    "images/Trinket Tray/e3ab39_fb0b0d2cc2e6422498d9dd9dc44cf470~mv2.avif",
-    "images/Trinket Tray/Screenshot 2026-04-04 at 11.29.00 PM.png"
+    "images/Trinket Tray/01.avif",
+    "images/Trinket Tray/02.webp",
+    "images/Trinket Tray/03.avif",
+    "images/Trinket Tray/04.avif",
+    "images/Trinket Tray/05.avif",
+    "images/Trinket Tray/06.webp",
+    "images/Trinket Tray/07.webp",
+    "images/Trinket Tray/08.webp",
+    "images/Trinket Tray/09.avif"
   ],
   "Wine Stoppers": [
     "images/Wine Stoppers/01.jpg",
