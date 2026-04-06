@@ -174,12 +174,12 @@ const IMAGE_MANIFEST = {
     "images/Round Coasters/e3ab39_d69a6bb6a8634b3e9a0fec9c0813d1be~mv2.avif"
   ],
   "Sink Tray": [
-    "images/Sink Tray/406AD32E-DAFA-4EA7-AA0A-CA953515C7A9.jpg",
-    "images/Sink Tray/CA2217B3-EDC6-4156-8FA9-A43A92503711.jpg",
-    "images/Sink Tray/e3ab39_2afc34be4df44fe995986825e25ee928~mv2.avif",
-    "images/Sink Tray/E5DBA8CA-C239-4ED2-9956-9E6E0AC35581.jpg",
-    "images/Sink Tray/E6B1B5E5-FF1C-43C9-B4F5-6200F45F8849.jpg",
-    "images/Sink Tray/Screenshot 2026-04-04 at 11.28.46 PM.png"
+    "images/Sink Tray/01.webp",
+    "images/Sink Tray/02.webp",
+    "images/Sink Tray/03.avif",
+    "images/Sink Tray/04.webp",
+    "images/Sink Tray/05.webp",
+    "images/Sink Tray/06.webp"
   ],
   "Square Block": [
     "images/Square Block/7ECA053D-809E-4626-9E1F-5D08C06BB1CC.jpg",
