@@ -45,7 +45,7 @@ const IMAGE_MANIFEST = {
     "images/Arched Block/0.png"
   ],
   "Bookends 6.5\"": [
-    "images/Bookends 6.5\"/e3ab39_141b6d77fd0f4f59b127f69bb331a82d~mv2.avif"
+    "images/Bookends 6.5\"/01.avif"
   ],
   "Diamond Jewelry Jar": [
     "images/Diamond Jewelry Jar/e3ab39_8eb21c9278d343e9835a70480324162c~mv2.avif",
