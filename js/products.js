@@ -161,16 +161,16 @@ const PRODUCTS = [
     nameItalic: 'Tray 13"',
     desc: 'Can add an invitation under a 4" × 6" image.',
     basePrice: 350,
-    image: 'images/Rectangle Tray 13"/download-1.avif',
+    image: 'images/Rectangle Tray 13/download-1.avif',
     images: [
-      'images/Rectangle Tray 13"/download-1.avif',
-      'images/Rectangle Tray 13"/download-2.avif',
-      'images/Rectangle Tray 13"/download.avif',
-      'images/Rectangle Tray 13"/e3ab39_074d7ef1c0f9411c9795117a85fa8563~mv2.avif',
-      'images/Rectangle Tray 13"/e3ab39_11e1cfb861d34cd59ef9b17b4bf195e0~mv2.avif',
-      'images/Rectangle Tray 13"/e3ab39_3c45411e1acc4791962b922d580f0dc2~mv2.avif',
-      'images/Rectangle Tray 13"/e3ab39_800466b176b4422daaa2a9a456f4901d~mv2.avif',
-      'images/Rectangle Tray 13"/e3ab39_e2d4eae583ef4bae9372bdb79cf3e52b~mv2.avif',
+      'images/Rectangle Tray 13/download-1.avif',
+      'images/Rectangle Tray 13/download-2.avif',
+      'images/Rectangle Tray 13/download.avif',
+      'images/Rectangle Tray 13/e3ab39_074d7ef1c0f9411c9795117a85fa8563~mv2.avif',
+      'images/Rectangle Tray 13/e3ab39_11e1cfb861d34cd59ef9b17b4bf195e0~mv2.avif',
+      'images/Rectangle Tray 13/e3ab39_3c45411e1acc4791962b922d580f0dc2~mv2.avif',
+      'images/Rectangle Tray 13/e3ab39_800466b176b4422daaa2a9a456f4901d~mv2.avif',
+      'images/Rectangle Tray 13/e3ab39_e2d4eae583ef4bae9372bdb79cf3e52b~mv2.avif',
     ],
     options: [
       {
@@ -208,10 +208,10 @@ const PRODUCTS = [
     nameItalic: 'Tray 12"',
     desc: 'Can add an invitation at any size.',
     basePrice: 350,
-    image: 'images/Hexagonal Tray 12"/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif',
+    image: 'images/Hexagonal Tray 12/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif',
     images: [
-      'images/Hexagonal Tray 12"/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif',
-      'images/Hexagonal Tray 12"/e3ab39_f32582324c1349c5a73a3d7f43d7c511~mv2.avif',
+      'images/Hexagonal Tray 12/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif',
+      'images/Hexagonal Tray 12/e3ab39_f32582324c1349c5a73a3d7f43d7c511~mv2.avif',
     ],
     options: [
       {
@@ -253,12 +253,12 @@ const PRODUCTS = [
     nameItalic: '7"',
     desc: '$200 per initial. Specify the letter(s) you\'d like.',
     basePrice: 200,
-    image: 'images/Initial 7"/e3ab39_98e871d2a7b149f78b8970cacdc6a442~mv2.avif',
+    image: 'images/Initial 7/e3ab39_98e871d2a7b149f78b8970cacdc6a442~mv2.avif',
     images: [
-      'images/Initial 7"/e3ab39_98e871d2a7b149f78b8970cacdc6a442~mv2.avif',
-      'images/Initial 7"/e3ab39_a0721b4f7e1d4dd1a6224800cdea392a~mv2.avif',
-      'images/Initial 7"/e3ab39_c167bf662804427dbe3915815a81c0e9~mv2.avif',
-      'images/Initial 7"/e3ab39_d5f8a3e1d0214ddca993ffebf113b852~mv2.avif',
+      'images/Initial 7/e3ab39_98e871d2a7b149f78b8970cacdc6a442~mv2.avif',
+      'images/Initial 7/e3ab39_a0721b4f7e1d4dd1a6224800cdea392a~mv2.avif',
+      'images/Initial 7/e3ab39_c167bf662804427dbe3915815a81c0e9~mv2.avif',
+      'images/Initial 7/e3ab39_d5f8a3e1d0214ddca993ffebf113b852~mv2.avif',
     ],
     options: [
       {
@@ -287,7 +287,7 @@ const PRODUCTS = [
     nameItalic: 'Set of 2',
     desc: '6.5" bookends beautifully cast in resin.',
     basePrice: 350,
-    image: 'images/Bookends 6.5"/e3ab39_141b6d77fd0f4f59b127f69bb331a82d~mv2.avif',
+    image: 'images/Bookends 6.5/e3ab39_141b6d77fd0f4f59b127f69bb331a82d~mv2.avif',
     options: [
       {
         key: 'leafAccent',
@@ -356,7 +356,7 @@ const PRODUCTS = [
     nameItalic: '10"',
     desc: 'Geometric hexagon resin piece.',
     basePrice: 300,
-    image: 'images/Hexagon 10"/e3ab39_f70645f72c9d47e3b6d698eb2b3f252e~mv2.avif',
+    image: 'images/Hexagon 10/e3ab39_f70645f72c9d47e3b6d698eb2b3f252e~mv2.avif',
     options: [
       {
         key: 'leafAccent',
@@ -377,10 +377,10 @@ const PRODUCTS = [
     nameItalic: 'Block',
     desc: 'Beautiful heart-shaped resin piece.',
     basePrice: 250,
-    image: 'images/Heart 7"/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif',
+    image: 'images/Heart 7/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif',
     images: [
-      'images/Heart 7"/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif',
-      'images/Heart 7"/e3ab39_f5ea53a326d746298e0c1db8b3cb29e7~mv2.avif',
+      'images/Heart 7/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif',
+      'images/Heart 7/e3ab39_f5ea53a326d746298e0c1db8b3cb29e7~mv2.avif',
     ],
     options: [
       {
@@ -647,12 +647,12 @@ const PRODUCTS = [
     nameItalic: '8"',
     desc: 'Stunning large resin bowl.',
     basePrice: 350,
-    image: 'images/Large Bowl 8"/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg',
+    image: 'images/Large Bowl 8/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg',
     images: [
-      'images/Large Bowl 8"/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg',
-      'images/Large Bowl 8"/EFB65696-96EF-46E5-AD2C-A2697BCE6E27.jpg',
-      'images/Large Bowl 8"/e3ab39_0f1598988a464ad0956a18ee9daaf49a~mv2.avif',
-      'images/Large Bowl 8"/e3ab39_1876dd772eaf47c3afb203a9bf7b2132~mv2.avif',
+      'images/Large Bowl 8/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg',
+      'images/Large Bowl 8/EFB65696-96EF-46E5-AD2C-A2697BCE6E27.jpg',
+      'images/Large Bowl 8/e3ab39_0f1598988a464ad0956a18ee9daaf49a~mv2.avif',
+      'images/Large Bowl 8/e3ab39_1876dd772eaf47c3afb203a9bf7b2132~mv2.avif',
     ],
     options: [
       {
@@ -674,7 +674,7 @@ const PRODUCTS = [
     nameItalic: 'Vase',
     desc: 'Geometric hexagon resin vase.',
     basePrice: 300,
-    image: 'images/Hexagon Vase 9"/14CE1BB5-98FD-445F-93D5-C45529C97E51.jpg',
+    image: 'images/Hexagon Vase 9/14CE1BB5-98FD-445F-93D5-C45529C97E51.jpg',
     options: [
       {
         key: 'leafAccent',
@@ -695,14 +695,14 @@ const PRODUCTS = [
     nameItalic: 'Vase',
     desc: 'Gorgeous striped resin vase.',
     basePrice: 200,
-    image: 'images/Striped Vase 6.5"/0-5.jpg',
+    image: 'images/Striped Vase 6.5/0-5.jpg',
     images: [
-      'images/Striped Vase 6.5"/0-5.jpg',
-      'images/Striped Vase 6.5"/0B8E2AB4-7BCA-4AF7-8CC5-C8F60893FD2D.jpg',
-      'images/Striped Vase 6.5"/5B509106-F3BB-4B23-A149-309F8710F70E.jpg',
-      'images/Striped Vase 6.5"/IMG_0671.jpg',
-      'images/Striped Vase 6.5"/e3ab39_260a151506b54a9aa3f7b66b85643a77~mv2.avif',
-      'images/Striped Vase 6.5"/e3ab39_31c8d941c4ba4664807cf4fe55e22384~mv2.avif',
+      'images/Striped Vase 6.5/0-5.jpg',
+      'images/Striped Vase 6.5/0B8E2AB4-7BCA-4AF7-8CC5-C8F60893FD2D.jpg',
+      'images/Striped Vase 6.5/5B509106-F3BB-4B23-A149-309F8710F70E.jpg',
+      'images/Striped Vase 6.5/IMG_0671.jpg',
+      'images/Striped Vase 6.5/e3ab39_260a151506b54a9aa3f7b66b85643a77~mv2.avif',
+      'images/Striped Vase 6.5/e3ab39_31c8d941c4ba4664807cf4fe55e22384~mv2.avif',
     ],
     options: [
       {
