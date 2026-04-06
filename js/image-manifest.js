@@ -213,8 +213,7 @@ const IMAGE_MANIFEST = {
     "images/Tea Light Handle Holder/C15853AD-9F8C-4333-B80A-5D9E7CAC8528.jpg"
   ],
   "Triangle Ring Holder": [
-    "images/Triangle Ring Holder/01.jpg",
-    "images/Triangle Ring Holder/02.avif"
+    "images/Triangle Ring Holder/01.avif"
   ],
   "Trinket Tray": [
     "images/Trinket Tray/01.avif",
