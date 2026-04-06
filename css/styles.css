@@ -273,6 +273,7 @@ button { font-family: inherit; }
   box-shadow: 0 10px 30px rgba(138,115,102,0.12);
 }
 .category-icon { font-size: 2rem; margin-bottom: 1rem; }
+.category-icon img { width: 96px; height: 64px; object-fit: contain; display: block; margin: 0 auto; }
 .category-name { font-size: 0.95rem; color: var(--brown); }
 .category-name .italic { font-style: italic; }
 
