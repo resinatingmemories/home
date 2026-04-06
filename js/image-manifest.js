@@ -44,8 +44,8 @@ const IMAGE_MANIFEST = {
   "Arched Block": [
     "images/Arched Block/0.png"
   ],
-  "Bookends 6.5\"": [
-    "images/Bookends 6.5\"/01.avif"
+  "Bookends 6.5": [
+    "images/Bookends 6.5/01.avif"
   ],
   "Diamond Jewelry Jar": [
     "images/Diamond Jewelry Jar/e3ab39_8eb21c9278d343e9835a70480324162c~mv2.avif",
@@ -59,66 +59,66 @@ const IMAGE_MANIFEST = {
     "images/Globe Tea Light Candle Holder/IMG_8268.jpg",
     "images/Globe Tea Light Candle Holder/IMG_8270.jpg"
   ],
-  "Heart 7\"": [
-    "images/Heart 7\"/1E73724A-6E85-43E5-BCF0-52D4628A16A3.jpg",
-    "images/Heart 7\"/87330DC7-F6B2-42C0-961F-2D28A79C485B.jpg",
-    "images/Heart 7\"/A9CF6F91-91FA-4B60-A507-1D2E5A54B55F.jpg",
-    "images/Heart 7\"/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif",
-    "images/Heart 7\"/e3ab39_f5ea53a326d746298e0c1db8b3cb29e7~mv2.avif",
-    "images/Heart 7\"/IMG_0707.jpg"
+  "Heart 7": [
+    "images/Heart 7/1E73724A-6E85-43E5-BCF0-52D4628A16A3.jpg",
+    "images/Heart 7/87330DC7-F6B2-42C0-961F-2D28A79C485B.jpg",
+    "images/Heart 7/A9CF6F91-91FA-4B60-A507-1D2E5A54B55F.jpg",
+    "images/Heart 7/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif",
+    "images/Heart 7/e3ab39_f5ea53a326d746298e0c1db8b3cb29e7~mv2.avif",
+    "images/Heart 7/IMG_0707.jpg"
   ],
   "Heart Jewelry Dish": [
     "images/Heart Jewelry Dish/01.avif",
     "images/Heart Jewelry Dish/02.jpg"
   ],
-  "Hexagon 10\"": [
-    "images/Hexagon 10\"/01.avif",
-    "images/Hexagon 10\"/3C392783-191D-4129-BD51-62B7A27AB439.jpg",
-    "images/Hexagon 10\"/6E3860D5-B11B-4FC3-9973-40589B15DF1A.jpg",
-    "images/Hexagon 10\"/454031D5-1454-4813-870C-07E5169B5E63.jpg"
+  "Hexagon 10": [
+    "images/Hexagon 10/01.avif",
+    "images/Hexagon 10/3C392783-191D-4129-BD51-62B7A27AB439.jpg",
+    "images/Hexagon 10/6E3860D5-B11B-4FC3-9973-40589B15DF1A.jpg",
+    "images/Hexagon 10/454031D5-1454-4813-870C-07E5169B5E63.jpg"
   ],
-  "Hexagon Vase 9\"": [
-    "images/Hexagon Vase 9\"/14CE1BB5-98FD-445F-93D5-C45529C97E51.jpg"
+  "Hexagon Vase 9": [
+    "images/Hexagon Vase 9/14CE1BB5-98FD-445F-93D5-C45529C97E51.jpg"
   ],
-  "Hexagonal Tray 12\"": [
-    "images/Hexagonal Tray 12\"/0D26E4E4-82F7-4BAB-A853-C902AEBCDFFD.jpg",
-    "images/Hexagonal Tray 12\"/2D070C50-1396-4E34-8E3E-D465B7524A3E.jpg",
-    "images/Hexagonal Tray 12\"/72851CDD-EB0F-41E7-89BE-71C2FB20142F.jpg",
-    "images/Hexagonal Tray 12\"/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif",
-    "images/Hexagonal Tray 12\"/e3ab39_f32582324c1349c5a73a3d7f43d7c511~mv2.avif"
+  "Hexagonal Tray 12": [
+    "images/Hexagonal Tray 12/0D26E4E4-82F7-4BAB-A853-C902AEBCDFFD.jpg",
+    "images/Hexagonal Tray 12/2D070C50-1396-4E34-8E3E-D465B7524A3E.jpg",
+    "images/Hexagonal Tray 12/72851CDD-EB0F-41E7-89BE-71C2FB20142F.jpg",
+    "images/Hexagonal Tray 12/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif",
+    "images/Hexagonal Tray 12/e3ab39_f32582324c1349c5a73a3d7f43d7c511~mv2.avif"
   ],
-  "Initial 7\"": [
-    "images/Initial 7\"/01.avif",
-    "images/Initial 7\"/03.jpg",
-    "images/Initial 7\"/04.avif",
-    "images/Initial 7\"/05.jpg",
-    "images/Initial 7\"/06.jpg",
-    "images/Initial 7\"/07.jpg",
-    "images/Initial 7\"/10.jpg",
-    "images/Initial 7\"/11.jpg",
-    "images/Initial 7\"/13.jpg",
-    "images/Initial 7\"/66BC6A3C-7398-499F-8946-8097A4BE76C8.jpg",
-    "images/Initial 7\"/66DF802A-2656-4AF8-803C-28AEF86656A7.jpg",
-    "images/Initial 7\"/55198CB8-E78E-4376-A817-D865DEA93C59.jpg",
-    "images/Initial 7\"/DE31DF5F-1328-49D1-9919-33FC3473E5D7.jpg",
-    "images/Initial 7\"/e3ab39_c167bf662804427dbe3915815a81c0e9~mv2.avif",
-    "images/Initial 7\"/e3ab39_d5f8a3e1d0214ddca993ffebf113b852~mv2.avif",
-    "images/Initial 7\"/EE936BD7-7E0B-46CF-9A0C-67D5791CC85B.jpg",
-    "images/Initial 7\"/IMG_0651.jpg",
-    "images/Initial 7\"/IMG_0652.jpg",
-    "images/Initial 7\"/IMG_0674.jpg",
-    "images/Initial 7\"/IMG_5014.jpg"
+  "Initial 7": [
+    "images/Initial 7/01.avif",
+    "images/Initial 7/03.jpg",
+    "images/Initial 7/04.avif",
+    "images/Initial 7/05.jpg",
+    "images/Initial 7/06.jpg",
+    "images/Initial 7/07.jpg",
+    "images/Initial 7/10.jpg",
+    "images/Initial 7/11.jpg",
+    "images/Initial 7/13.jpg",
+    "images/Initial 7/66BC6A3C-7398-499F-8946-8097A4BE76C8.jpg",
+    "images/Initial 7/66DF802A-2656-4AF8-803C-28AEF86656A7.jpg",
+    "images/Initial 7/55198CB8-E78E-4376-A817-D865DEA93C59.jpg",
+    "images/Initial 7/DE31DF5F-1328-49D1-9919-33FC3473E5D7.jpg",
+    "images/Initial 7/e3ab39_c167bf662804427dbe3915815a81c0e9~mv2.avif",
+    "images/Initial 7/e3ab39_d5f8a3e1d0214ddca993ffebf113b852~mv2.avif",
+    "images/Initial 7/EE936BD7-7E0B-46CF-9A0C-67D5791CC85B.jpg",
+    "images/Initial 7/IMG_0651.jpg",
+    "images/Initial 7/IMG_0652.jpg",
+    "images/Initial 7/IMG_0674.jpg",
+    "images/Initial 7/IMG_5014.jpg"
   ],
   "Jewelry Boat": [
     "images/Jewelry Boat/01.avif",
     "images/Jewelry Boat/02.jpg",
     "images/Jewelry Boat/03.jpg"
   ],
-  "Large Bowl 8\"": [
-    "images/Large Bowl 8\"/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg",
-    "images/Large Bowl 8\"/e3ab39_0f1598988a464ad0956a18ee9daaf49a~mv2.avif",
-    "images/Large Bowl 8\"/e3ab39_1876dd772eaf47c3afb203a9bf7b2132~mv2.avif",
-    "images/Large Bowl 8\"/EFB65696-96EF-46E5-AD2C-A2697BCE6E27.jpg"
+  "Large Bowl 8": [
+    "images/Large Bowl 8/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg",
+    "images/Large Bowl 8/e3ab39_0f1598988a464ad0956a18ee9daaf49a~mv2.avif",
+    "images/Large Bowl 8/e3ab39_1876dd772eaf47c3afb203a9bf7b2132~mv2.avif",
+    "images/Large Bowl 8/EFB65696-96EF-46E5-AD2C-A2697BCE6E27.jpg"
   ],
   "Ornaments": [
     "images/Ornaments/0.jpg",
@@ -134,31 +134,31 @@ const IMAGE_MANIFEST = {
   "Perfume Tray": [
     "images/Perfume Tray/7765922E-66A0-48D4-B609-8D1D83342EF0.PNG"
   ],
-  "Rectangle Tray 13\"": [
-    "images/Rectangle Tray 13\"/0-6.webp",
-    "images/Rectangle Tray 13\"/6EA73078-93C2-4A48-97F2-F9207945CAB3.webp",
-    "images/Rectangle Tray 13\"/7FBF9023-224B-44BE-BEDD-C6912A960607.webp",
-    "images/Rectangle Tray 13\"/9B35500F-D60E-4DDF-A9DF-34509CEA7C8A.webp",
-    "images/Rectangle Tray 13\"/021.webp",
-    "images/Rectangle Tray 13\"/022.webp",
-    "images/Rectangle Tray 13\"/023.webp",
-    "images/Rectangle Tray 13\"/024.webp",
-    "images/Rectangle Tray 13\"/117D124B-60B1-439B-ACAF-BA0C86C6F39B.webp",
-    "images/Rectangle Tray 13\"/128A35A9-A207-4EC0-A0F8-BD18BCA801F9.webp",
-    "images/Rectangle Tray 13\"/54343E95-D7A9-4BD3-9A97-39859701AA47.webp",
-    "images/Rectangle Tray 13\"/6116612C-A89A-410D-808B-2636186FA35B.webp",
-    "images/Rectangle Tray 13\"/78184825-0A6B-4084-A568-7A84CDFEB2AD.webp",
-    "images/Rectangle Tray 13\"/A675968C-4EFD-46FA-8953-7E6F986A8266.webp",
-    "images/Rectangle Tray 13\"/A784486C-1893-4C12-974F-B635B37EBEA3.webp",
-    "images/Rectangle Tray 13\"/BE6A7D0A-0172-4372-AE83-EE96D2F96A30.webp",
-    "images/Rectangle Tray 13\"/C26D8236-B916-4A7F-8883-0658B9DCB65F.webp",
-    "images/Rectangle Tray 13\"/D5DEB2AA-A7D9-4833-9041-3A1A3FF5F53C.webp",
-    "images/Rectangle Tray 13\"/F95D3E2E-B4BF-4D12-BDE4-8734AFC41615.webp",
-    "images/Rectangle Tray 13\"/IMG_0653.webp",
-    "images/Rectangle Tray 13\"/IMG_0656.webp",
-    "images/Rectangle Tray 13\"/IMG_0667.webp",
-    "images/Rectangle Tray 13\"/IMG_1908.webp",
-    "images/Rectangle Tray 13\"/IMG_9666.webp"
+  "Rectangle Tray 13": [
+    "images/Rectangle Tray 13/0-6.webp",
+    "images/Rectangle Tray 13/6EA73078-93C2-4A48-97F2-F9207945CAB3.webp",
+    "images/Rectangle Tray 13/7FBF9023-224B-44BE-BEDD-C6912A960607.webp",
+    "images/Rectangle Tray 13/9B35500F-D60E-4DDF-A9DF-34509CEA7C8A.webp",
+    "images/Rectangle Tray 13/021.webp",
+    "images/Rectangle Tray 13/022.webp",
+    "images/Rectangle Tray 13/023.webp",
+    "images/Rectangle Tray 13/024.webp",
+    "images/Rectangle Tray 13/117D124B-60B1-439B-ACAF-BA0C86C6F39B.webp",
+    "images/Rectangle Tray 13/128A35A9-A207-4EC0-A0F8-BD18BCA801F9.webp",
+    "images/Rectangle Tray 13/54343E95-D7A9-4BD3-9A97-39859701AA47.webp",
+    "images/Rectangle Tray 13/6116612C-A89A-410D-808B-2636186FA35B.webp",
+    "images/Rectangle Tray 13/78184825-0A6B-4084-A568-7A84CDFEB2AD.webp",
+    "images/Rectangle Tray 13/A675968C-4EFD-46FA-8953-7E6F986A8266.webp",
+    "images/Rectangle Tray 13/A784486C-1893-4C12-974F-B635B37EBEA3.webp",
+    "images/Rectangle Tray 13/BE6A7D0A-0172-4372-AE83-EE96D2F96A30.webp",
+    "images/Rectangle Tray 13/C26D8236-B916-4A7F-8883-0658B9DCB65F.webp",
+    "images/Rectangle Tray 13/D5DEB2AA-A7D9-4833-9041-3A1A3FF5F53C.webp",
+    "images/Rectangle Tray 13/F95D3E2E-B4BF-4D12-BDE4-8734AFC41615.webp",
+    "images/Rectangle Tray 13/IMG_0653.webp",
+    "images/Rectangle Tray 13/IMG_0656.webp",
+    "images/Rectangle Tray 13/IMG_0667.webp",
+    "images/Rectangle Tray 13/IMG_1908.webp",
+    "images/Rectangle Tray 13/IMG_9666.webp"
   ],
   "Round Coasters": [
     "images/Round Coasters/0-1.jpg",
@@ -201,13 +201,13 @@ const IMAGE_MANIFEST = {
     "images/Striped Jewelry Jar/02.jpg",
     "images/Striped Jewelry Jar/03.jpg"
   ],
-  "Striped Vase 6.5\"": [
-    "images/Striped Vase 6.5\"/0-5.jpg",
-    "images/Striped Vase 6.5\"/0B8E2AB4-7BCA-4AF7-8CC5-C8F60893FD2D.jpg",
-    "images/Striped Vase 6.5\"/5B509106-F3BB-4B23-A149-309F8710F70E.jpg",
-    "images/Striped Vase 6.5\"/e3ab39_31c8d941c4ba4664807cf4fe55e22384~mv2.avif",
-    "images/Striped Vase 6.5\"/e3ab39_260a151506b54a9aa3f7b66b85643a77~mv2.avif",
-    "images/Striped Vase 6.5\"/IMG_0671.jpg"
+  "Striped Vase 6.5": [
+    "images/Striped Vase 6.5/0-5.jpg",
+    "images/Striped Vase 6.5/0B8E2AB4-7BCA-4AF7-8CC5-C8F60893FD2D.jpg",
+    "images/Striped Vase 6.5/5B509106-F3BB-4B23-A149-309F8710F70E.jpg",
+    "images/Striped Vase 6.5/e3ab39_31c8d941c4ba4664807cf4fe55e22384~mv2.avif",
+    "images/Striped Vase 6.5/e3ab39_260a151506b54a9aa3f7b66b85643a77~mv2.avif",
+    "images/Striped Vase 6.5/IMG_0671.jpg"
   ],
   "Tea Light Handle Holder": [
     "images/Tea Light Handle Holder/C15853AD-9F8C-4333-B80A-5D9E7CAC8528.jpg"
