@@ -96,7 +96,7 @@ function buildProductCard(product) {
   const imgHtml = imgs.map((src, i) => `
     <img class="carousel-img${i === 0 ? ' active' : ''}"
          src='${src}'
-         alt="${product.nameRegular} ${product.nameItalic}"
+         alt="${(product.nameRegular + ' ' + product.nameItalic).replace(/"/g, '&quot;')}"
          loading="lazy"
          onerror="this.style.display='none'">`
   ).join('');
@@ -249,7 +249,7 @@ function renderCheckoutSummary() {
       <div class="checkout-item">
         <img class="checkout-item-img"
              src='${item.product.image}'
-             alt="${item.product.nameRegular}"
+             alt="${item.product.nameRegular.replace(/"/g, '&quot;')}"
              onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
         <div class="checkout-item-placeholder" style="display:none"></div>
         <div style="flex:1;min-width:0">
