@@ -405,7 +405,7 @@ const PRODUCTS = [
     nameRegular: 'Round',
     nameItalic: 'Coasters',
     desc: 'Beautifully crafted round resin coasters.',
-    basePrice: 100,
+    basePrice: 50,
     image: 'images/Round Coasters/e3ab39_055d2091025a4c719abc2716b6dc88a8~mv2.avif',
     images: [
       'images/Round Coasters/0-1.jpg',
@@ -450,7 +450,7 @@ const PRODUCTS = [
     nameRegular: 'Square',
     nameItalic: 'Coasters',
     desc: 'Elegant square resin coasters.',
-    basePrice: 100,
+    basePrice: 50,
     image: 'images/Square Coasters/e3ab39_8a69400c7c6247a8b173b4e7f85880bd~mv2.avif',
     images: [
       'images/Square Coasters/0-4.jpg',
@@ -488,7 +488,7 @@ const PRODUCTS = [
     nameRegular: 'Geode',
     nameItalic: 'Coasters',
     desc: 'Unique geode-style resin coasters.',
-    basePrice: 100,
+    basePrice: 50,
     image: 'images/Geode Coaster/e3ab39_a51cd2efee1a4aeda3d1ecf6a2b2341a~mv2.avif',
     options: [
       {
