@@ -765,7 +765,7 @@ const PRODUCTS = [
     nameRegular: 'Perfume',
     nameItalic: 'Tray',
     desc: 'Elegant perfume tray cast in resin.',
-    basePrice: 200,
+    basePrice: 300,
     image: 'images/Perfume Tray/placeholder.svg',
     options: [
       {
