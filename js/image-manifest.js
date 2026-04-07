@@ -2,47 +2,47 @@
 // Re-generated on every Cloudflare Pages deploy via: node sync-images.js
 const IMAGE_MANIFEST = {
   "Acrylic Tray 10x10": [
-    "images/Acrylic Tray 10x10/0-2.jpg",
-    "images/Acrylic Tray 10x10/0-7.jpg",
-    "images/Acrylic Tray 10x10/0.jpg",
-    "images/Acrylic Tray 10x10/0FCEF49B-C6ED-4CAF-8838-1E95ECE69F03.jpg",
-    "images/Acrylic Tray 10x10/9A5EC3D8-B6FF-425E-BC3C-BF60CEB358B9.jpg",
-    "images/Acrylic Tray 10x10/67E90E3F-5EAC-47D1-B850-7ABDCA9E8ABB.jpg",
-    "images/Acrylic Tray 10x10/B7AFD63E-BB3D-4938-997A-3FE6AA29C21D.jpg",
-    "images/Acrylic Tray 10x10/F6B8B79E-C080-4EAF-88AD-2822D83975C2.jpg"
+    "images/Acrylic Tray 10x10/01.webp",
+    "images/Acrylic Tray 10x10/02.webp",
+    "images/Acrylic Tray 10x10/03.webp",
+    "images/Acrylic Tray 10x10/04.webp",
+    "images/Acrylic Tray 10x10/05.webp",
+    "images/Acrylic Tray 10x10/06.webp",
+    "images/Acrylic Tray 10x10/07.webp",
+    "images/Acrylic Tray 10x10/08.webp"
   ],
   "Acrylic Tray 11x14": [
-    "images/Acrylic Tray 11x14/7DF1F27F-32EA-4EB4-B6E1-83895148661F.jpg",
-    "images/Acrylic Tray 11x14/833ACB04-07BA-4AA3-AF7E-9532120EF622.jpg",
-    "images/Acrylic Tray 11x14/2428293B-74A0-443E-AF7E-B40F64B232F1-1.jpg",
-    "images/Acrylic Tray 11x14/D8FC7CB7-3CA4-4666-BCC0-B72698701ACB.jpg",
-    "images/Acrylic Tray 11x14/IMG_0662.jpg",
-    "images/Acrylic Tray 11x14/IMG_0684.jpg"
+    "images/Acrylic Tray 11x14/01.webp",
+    "images/Acrylic Tray 11x14/02.webp",
+    "images/Acrylic Tray 11x14/03.webp",
+    "images/Acrylic Tray 11x14/04.webp",
+    "images/Acrylic Tray 11x14/05.webp",
+    "images/Acrylic Tray 11x14/06.webp"
   ],
   "Acrylic Tray 12x12": [
-    "images/Acrylic Tray 12x12/0-2.jpg",
-    "images/Acrylic Tray 12x12/0-3.jpg",
-    "images/Acrylic Tray 12x12/1FCDE172-6548-4BC1-9C3E-3473D44BD100.jpg",
-    "images/Acrylic Tray 12x12/4E9FC747-0ABC-482A-B4E1-2A0FA9245C6F.jpg",
-    "images/Acrylic Tray 12x12/17A3F2FE-FFEE-448A-A3C9-CD4B2F3DF585.jpg",
-    "images/Acrylic Tray 12x12/17AA2218-247B-4C91-85B0-F78413715970.jpg",
-    "images/Acrylic Tray 12x12/547C70D6-75D2-415A-A6EA-236F37A73F67.jpg",
-    "images/Acrylic Tray 12x12/66681BEF-1D89-49A3-8B3C-117497624713.jpg",
-    "images/Acrylic Tray 12x12/1856982A-FE7B-4993-A188-92875D7BC36B.jpg",
-    "images/Acrylic Tray 12x12/B082E217-6B25-4EBF-9FD8-B95C6F2D9F5E.jpg",
-    "images/Acrylic Tray 12x12/D016C98B-A9E4-4595-B7CF-C8A196B01065.jpg",
-    "images/Acrylic Tray 12x12/EB58609C-E3B4-4BB8-8B7E-38251185F8CD.jpg",
-    "images/Acrylic Tray 12x12/ED4F2134-F9E3-4036-855A-DF73292B7992.jpg",
-    "images/Acrylic Tray 12x12/IMG_0696.jpg",
-    "images/Acrylic Tray 12x12/IMG_0716.jpg"
+    "images/Acrylic Tray 12x12/01.webp",
+    "images/Acrylic Tray 12x12/02.webp",
+    "images/Acrylic Tray 12x12/03.webp",
+    "images/Acrylic Tray 12x12/04.webp",
+    "images/Acrylic Tray 12x12/05.webp",
+    "images/Acrylic Tray 12x12/06.webp",
+    "images/Acrylic Tray 12x12/07.webp",
+    "images/Acrylic Tray 12x12/08.webp",
+    "images/Acrylic Tray 12x12/09.webp",
+    "images/Acrylic Tray 12x12/10.webp",
+    "images/Acrylic Tray 12x12/11.webp",
+    "images/Acrylic Tray 12x12/12.webp",
+    "images/Acrylic Tray 12x12/13.webp",
+    "images/Acrylic Tray 12x12/14.webp",
+    "images/Acrylic Tray 12x12/15.webp"
   ],
   "Acrylic Tray 12x16": [
-    "images/Acrylic Tray 12x16/4CD99E2D-FF2E-45E2-86B2-C9D1A04462AF.jpg",
-    "images/Acrylic Tray 12x16/2428293B-74A0-443E-AF7E-B40F64B232F1.jpg",
-    "images/Acrylic Tray 12x16/CA4C86CB-66FF-4A7F-A4F5-5927D721DF69.jpg"
+    "images/Acrylic Tray 12x16/01.webp",
+    "images/Acrylic Tray 12x16/02.webp",
+    "images/Acrylic Tray 12x16/03.webp"
   ],
   "Arched Block": [
-    "images/Arched Block/0.png"
+    "images/Arched Block/01.webp"
   ],
   "Bookends 6.5": [
     "images/Bookends 6.5/01.avif"
@@ -53,125 +53,132 @@ const IMAGE_MANIFEST = {
     "images/Diamond Jewelry Jar/e3ab39_fa3c1558e4b84088bac838004c9102d9~mv2.avif"
   ],
   "Geode Coaster": [
-    "images/Geode Coaster/e3ab39_a51cd2efee1a4aeda3d1ecf6a2b2341a~mv2.avif"
+    "images/Geode Coaster/01.avif"
   ],
   "Globe Tea Light Candle Holder": [
-    "images/Globe Tea Light Candle Holder/IMG_8268.jpg",
-    "images/Globe Tea Light Candle Holder/IMG_8270.jpg"
+    "images/Globe Tea Light Candle Holder/01.webp",
+    "images/Globe Tea Light Candle Holder/02.webp"
   ],
   "Heart 7": [
-    "images/Heart 7/1E73724A-6E85-43E5-BCF0-52D4628A16A3.jpg",
-    "images/Heart 7/87330DC7-F6B2-42C0-961F-2D28A79C485B.jpg",
-    "images/Heart 7/A9CF6F91-91FA-4B60-A507-1D2E5A54B55F.jpg",
-    "images/Heart 7/e3ab39_5f7aeaffa2e34dfa8a0394f335b93706~mv2.avif",
-    "images/Heart 7/e3ab39_f5ea53a326d746298e0c1db8b3cb29e7~mv2.avif",
-    "images/Heart 7/IMG_0707.jpg"
+    "images/Heart 7/01.avif",
+    "images/Heart 7/02.avif",
+    "images/Heart 7/03.webp",
+    "images/Heart 7/04.webp",
+    "images/Heart 7/05.webp",
+    "images/Heart 7/06.webp"
   ],
   "Heart Jewelry Dish": [
     "images/Heart Jewelry Dish/01.avif",
-    "images/Heart Jewelry Dish/02.jpg"
+    "images/Heart Jewelry Dish/02.webp"
   ],
   "Hexagon 10": [
     "images/Hexagon 10/01.avif",
-    "images/Hexagon 10/3C392783-191D-4129-BD51-62B7A27AB439.jpg",
-    "images/Hexagon 10/6E3860D5-B11B-4FC3-9973-40589B15DF1A.jpg",
-    "images/Hexagon 10/454031D5-1454-4813-870C-07E5169B5E63.jpg"
+    "images/Hexagon 10/02.webp",
+    "images/Hexagon 10/03.webp",
+    "images/Hexagon 10/04.webp"
   ],
   "Hexagon Vase 9": [
-    "images/Hexagon Vase 9/14CE1BB5-98FD-445F-93D5-C45529C97E51.jpg"
+    "images/Hexagon Vase 9/01.webp"
   ],
   "Hexagonal Tray 12": [
-    "images/Hexagonal Tray 12/0D26E4E4-82F7-4BAB-A853-C902AEBCDFFD.jpg",
-    "images/Hexagonal Tray 12/2D070C50-1396-4E34-8E3E-D465B7524A3E.jpg",
-    "images/Hexagonal Tray 12/72851CDD-EB0F-41E7-89BE-71C2FB20142F.jpg",
-    "images/Hexagonal Tray 12/e3ab39_ec64506841f1435db5ac589eac633231~mv2.avif",
-    "images/Hexagonal Tray 12/e3ab39_f32582324c1349c5a73a3d7f43d7c511~mv2.avif"
+    "images/Hexagonal Tray 12/01.webp",
+    "images/Hexagonal Tray 12/02.webp",
+    "images/Hexagonal Tray 12/03.webp",
+    "images/Hexagonal Tray 12/04.avif",
+    "images/Hexagonal Tray 12/05.avif"
+  ],
+  "homepage": [
+    "images/homepage/initial.webp",
+    "images/homepage/jewelry.webp",
+    "images/homepage/resincoaster.webp",
+    "images/homepage/resintray.webp",
+    "images/homepage/winestopper.webp"
   ],
   "Initial 7": [
     "images/Initial 7/01.avif",
-    "images/Initial 7/03.jpg",
+    "images/Initial 7/02.avif",
+    "images/Initial 7/03.avif",
     "images/Initial 7/04.avif",
-    "images/Initial 7/05.jpg",
-    "images/Initial 7/06.jpg",
-    "images/Initial 7/07.jpg",
-    "images/Initial 7/10.jpg",
-    "images/Initial 7/11.jpg",
-    "images/Initial 7/13.jpg",
-    "images/Initial 7/66BC6A3C-7398-499F-8946-8097A4BE76C8.jpg",
-    "images/Initial 7/66DF802A-2656-4AF8-803C-28AEF86656A7.jpg",
-    "images/Initial 7/55198CB8-E78E-4376-A817-D865DEA93C59.jpg",
-    "images/Initial 7/DE31DF5F-1328-49D1-9919-33FC3473E5D7.jpg",
-    "images/Initial 7/e3ab39_c167bf662804427dbe3915815a81c0e9~mv2.avif",
-    "images/Initial 7/e3ab39_d5f8a3e1d0214ddca993ffebf113b852~mv2.avif",
-    "images/Initial 7/EE936BD7-7E0B-46CF-9A0C-67D5791CC85B.jpg",
-    "images/Initial 7/IMG_0651.jpg",
-    "images/Initial 7/IMG_0652.jpg",
-    "images/Initial 7/IMG_0674.jpg",
-    "images/Initial 7/IMG_5014.jpg"
+    "images/Initial 7/05.webp",
+    "images/Initial 7/06.webp",
+    "images/Initial 7/07.webp",
+    "images/Initial 7/08.webp",
+    "images/Initial 7/09.webp",
+    "images/Initial 7/10.webp",
+    "images/Initial 7/11.webp",
+    "images/Initial 7/12.webp",
+    "images/Initial 7/13.webp",
+    "images/Initial 7/14.webp",
+    "images/Initial 7/15.webp",
+    "images/Initial 7/16.webp",
+    "images/Initial 7/17.webp",
+    "images/Initial 7/18.webp",
+    "images/Initial 7/19.webp",
+    "images/Initial 7/20.webp"
   ],
   "Jewelry Boat": [
     "images/Jewelry Boat/01.avif",
-    "images/Jewelry Boat/02.jpg",
-    "images/Jewelry Boat/03.jpg"
+    "images/Jewelry Boat/02.webp",
+    "images/Jewelry Boat/03.webp"
   ],
   "Large Bowl 8": [
-    "images/Large Bowl 8/B8FF3431-08B8-40E4-BE89-8E853B0C096D.jpg",
-    "images/Large Bowl 8/e3ab39_0f1598988a464ad0956a18ee9daaf49a~mv2.avif",
-    "images/Large Bowl 8/e3ab39_1876dd772eaf47c3afb203a9bf7b2132~mv2.avif",
-    "images/Large Bowl 8/EFB65696-96EF-46E5-AD2C-A2697BCE6E27.jpg"
+    "images/Large Bowl 8/01.avif",
+    "images/Large Bowl 8/02.avif",
+    "images/Large Bowl 8/03.webp",
+    "images/Large Bowl 8/04.webp"
   ],
   "Ornaments": [
-    "images/Ornaments/0.jpg",
-    "images/Ornaments/752B408F-B781-47A2-9665-0F8A6AA3E72A.jpg",
-    "images/Ornaments/CA60DCC4-40BA-4D14-ABBC-9A65196325AE.jpg",
-    "images/Ornaments/e3ab39_3c0aade38db64e05a4e24485405ef3c8~mv2.avif",
-    "images/Ornaments/e3ab39_39af24f8ae744795a1b2523e660a46de~mv2.avif",
-    "images/Ornaments/e3ab39_c9c4aed5b4844947b3b9d3f6bf6511c0~mv2.avif",
-    "images/Ornaments/E5DBA8CA-C239-4ED2-9956-9E6E0AC35581.jpg",
-    "images/Ornaments/IMG_9952.jpg",
-    "images/Ornaments/IMG_9953.jpg"
+    "images/Ornaments/01.avif",
+    "images/Ornaments/02.avif",
+    "images/Ornaments/03.avif",
+    "images/Ornaments/04.webp",
+    "images/Ornaments/05.webp",
+    "images/Ornaments/06.webp",
+    "images/Ornaments/07.webp",
+    "images/Ornaments/08.webp",
+    "images/Ornaments/09.webp"
   ],
   "Perfume Tray": [
-    "images/Perfume Tray/7765922E-66A0-48D4-B609-8D1D83342EF0.PNG"
+    "images/Perfume Tray/01.webp"
   ],
   "Rectangle Tray 13": [
-    "images/Rectangle Tray 13/0-6.webp",
-    "images/Rectangle Tray 13/6EA73078-93C2-4A48-97F2-F9207945CAB3.webp",
-    "images/Rectangle Tray 13/7FBF9023-224B-44BE-BEDD-C6912A960607.webp",
-    "images/Rectangle Tray 13/9B35500F-D60E-4DDF-A9DF-34509CEA7C8A.webp",
-    "images/Rectangle Tray 13/021.webp",
-    "images/Rectangle Tray 13/022.webp",
-    "images/Rectangle Tray 13/023.webp",
-    "images/Rectangle Tray 13/024.webp",
-    "images/Rectangle Tray 13/117D124B-60B1-439B-ACAF-BA0C86C6F39B.webp",
-    "images/Rectangle Tray 13/128A35A9-A207-4EC0-A0F8-BD18BCA801F9.webp",
-    "images/Rectangle Tray 13/54343E95-D7A9-4BD3-9A97-39859701AA47.webp",
-    "images/Rectangle Tray 13/6116612C-A89A-410D-808B-2636186FA35B.webp",
-    "images/Rectangle Tray 13/78184825-0A6B-4084-A568-7A84CDFEB2AD.webp",
-    "images/Rectangle Tray 13/A675968C-4EFD-46FA-8953-7E6F986A8266.webp",
-    "images/Rectangle Tray 13/A784486C-1893-4C12-974F-B635B37EBEA3.webp",
-    "images/Rectangle Tray 13/BE6A7D0A-0172-4372-AE83-EE96D2F96A30.webp",
-    "images/Rectangle Tray 13/C26D8236-B916-4A7F-8883-0658B9DCB65F.webp",
-    "images/Rectangle Tray 13/D5DEB2AA-A7D9-4833-9041-3A1A3FF5F53C.webp",
-    "images/Rectangle Tray 13/F95D3E2E-B4BF-4D12-BDE4-8734AFC41615.webp",
-    "images/Rectangle Tray 13/IMG_0653.webp",
-    "images/Rectangle Tray 13/IMG_0656.webp",
-    "images/Rectangle Tray 13/IMG_0667.webp",
-    "images/Rectangle Tray 13/IMG_1908.webp",
-    "images/Rectangle Tray 13/IMG_9666.webp"
+    "images/Rectangle Tray 13/01.webp",
+    "images/Rectangle Tray 13/02.webp",
+    "images/Rectangle Tray 13/03.webp",
+    "images/Rectangle Tray 13/04.webp",
+    "images/Rectangle Tray 13/05.webp",
+    "images/Rectangle Tray 13/06.webp",
+    "images/Rectangle Tray 13/07.webp",
+    "images/Rectangle Tray 13/08.webp",
+    "images/Rectangle Tray 13/09.webp",
+    "images/Rectangle Tray 13/10.webp",
+    "images/Rectangle Tray 13/11.webp",
+    "images/Rectangle Tray 13/12.webp",
+    "images/Rectangle Tray 13/13.webp",
+    "images/Rectangle Tray 13/14.webp",
+    "images/Rectangle Tray 13/15.webp",
+    "images/Rectangle Tray 13/16.webp",
+    "images/Rectangle Tray 13/17.webp",
+    "images/Rectangle Tray 13/18.webp",
+    "images/Rectangle Tray 13/19.webp",
+    "images/Rectangle Tray 13/20.webp",
+    "images/Rectangle Tray 13/21.webp",
+    "images/Rectangle Tray 13/22.webp",
+    "images/Rectangle Tray 13/23.webp",
+    "images/Rectangle Tray 13/24.webp"
   ],
   "Round Coasters": [
-    "images/Round Coasters/0-1.jpg",
-    "images/Round Coasters/0-3.jpg",
-    "images/Round Coasters/5F4D85D3-927B-42C2-B4B9-EA7E706884BC.jpg",
-    "images/Round Coasters/40D9B967-3AAC-4D5D-ADCB-C847A5BBAAD0.jpg",
-    "images/Round Coasters/AE5A0000-4A00-4D26-A2F3-04CC89FF4A91.jpg",
-    "images/Round Coasters/B68FA54C-08A1-4B26-8079-AEEC07B19869.jpg",
-    "images/Round Coasters/e3ab39_8bd6463334b440559a57b08427f4a24d~mv2.avif",
-    "images/Round Coasters/e3ab39_25c877028d214a44b8710f232b4b897b~mv2.avif",
-    "images/Round Coasters/e3ab39_055d2091025a4c719abc2716b6dc88a8~mv2.avif",
-    "images/Round Coasters/e3ab39_654d82ee69704826a08df53ec5988c57~mv2.avif",
-    "images/Round Coasters/e3ab39_d69a6bb6a8634b3e9a0fec9c0813d1be~mv2.avif"
+    "images/Round Coasters/01.webp",
+    "images/Round Coasters/02.webp",
+    "images/Round Coasters/03.webp",
+    "images/Round Coasters/04.webp",
+    "images/Round Coasters/05.webp",
+    "images/Round Coasters/07.webp",
+    "images/Round Coasters/08.avif",
+    "images/Round Coasters/09.avif",
+    "images/Round Coasters/10.avif",
+    "images/Round Coasters/11.avif",
+    "images/Round Coasters/12.avif"
   ],
   "Sink Tray": [
     "images/Sink Tray/01.webp",
@@ -182,35 +189,35 @@ const IMAGE_MANIFEST = {
     "images/Sink Tray/06.webp"
   ],
   "Square Block": [
-    "images/Square Block/7ECA053D-809E-4626-9E1F-5D08C06BB1CC.jpg",
-    "images/Square Block/0045312D-B7E7-49AA-A7EA-4C371B601EB0.jpg",
-    "images/Square Block/e3ab39_045d706c123a412cb45eb6185965d783~mv2.avif",
-    "images/Square Block/IMG_0700.jpg"
+    "images/Square Block/01.webp",
+    "images/Square Block/02.webp",
+    "images/Square Block/03.webp",
+    "images/Square Block/04.avif"
   ],
   "Square Coasters": [
-    "images/Square Coasters/0-4.jpg",
-    "images/Square Coasters/0-7.jpg",
-    "images/Square Coasters/e3ab39_8a69400c7c6247a8b173b4e7f85880bd~mv2.avif",
-    "images/Square Coasters/IMG_0660.jpg"
+    "images/Square Coasters/01.webp",
+    "images/Square Coasters/02.webp",
+    "images/Square Coasters/03.webp",
+    "images/Square Coasters/04.avif"
   ],
   "Square Jewelry Dish": [
-    "images/Square Jewelry Dish/e3ab39_9e829389781544fe873241c13666d60d~mv2.avif"
+    "images/Square Jewelry Dish/01.avif"
   ],
   "Striped Jewelry Jar": [
     "images/Striped Jewelry Jar/01.avif",
-    "images/Striped Jewelry Jar/02.jpg",
-    "images/Striped Jewelry Jar/03.jpg"
+    "images/Striped Jewelry Jar/02.webp",
+    "images/Striped Jewelry Jar/03.webp"
   ],
   "Striped Vase 6.5": [
-    "images/Striped Vase 6.5/0-5.jpg",
-    "images/Striped Vase 6.5/0B8E2AB4-7BCA-4AF7-8CC5-C8F60893FD2D.jpg",
-    "images/Striped Vase 6.5/5B509106-F3BB-4B23-A149-309F8710F70E.jpg",
-    "images/Striped Vase 6.5/e3ab39_31c8d941c4ba4664807cf4fe55e22384~mv2.avif",
-    "images/Striped Vase 6.5/e3ab39_260a151506b54a9aa3f7b66b85643a77~mv2.avif",
-    "images/Striped Vase 6.5/IMG_0671.jpg"
+    "images/Striped Vase 6.5/01.webp",
+    "images/Striped Vase 6.5/02.webp",
+    "images/Striped Vase 6.5/03.webp",
+    "images/Striped Vase 6.5/04.webp",
+    "images/Striped Vase 6.5/05.avif",
+    "images/Striped Vase 6.5/06.avif"
   ],
   "Tea Light Handle Holder": [
-    "images/Tea Light Handle Holder/C15853AD-9F8C-4333-B80A-5D9E7CAC8528.jpg"
+    "images/Tea Light Handle Holder/01.webp"
   ],
   "Triangle Ring Holder": [
     "images/Triangle Ring Holder/01.avif"
@@ -227,16 +234,16 @@ const IMAGE_MANIFEST = {
     "images/Trinket Tray/09.avif"
   ],
   "Wine Stoppers": [
-    "images/Wine Stoppers/01.jpg",
-    "images/Wine Stoppers/02.jpg",
-    "images/Wine Stoppers/04.avif",
-    "images/Wine Stoppers/05.avif"
+    "images/Wine Stoppers/01.webp",
+    "images/Wine Stoppers/02.avif",
+    "images/Wine Stoppers/03.webp",
+    "images/Wine Stoppers/04.avif"
   ],
   "Wooden Coasters": [
-    "images/Wooden Coasters/2E6D66D8-64E0-449A-BDCD-730FBEB4D3A2.jpg"
+    "images/Wooden Coasters/2E6D66D8-64E0-449A-BDCD-730FBEB4D3A2.webp"
   ],
   "XL Ring Holder": [
-    "images/XL Ring Holder/2216F299-E7BA-48AE-8446-D3AE8B338A60.jpg",
-    "images/XL Ring Holder/IMG_0661.jpg"
+    "images/XL Ring Holder/01.webp",
+    "images/XL Ring Holder/02.webp"
   ]
 };
