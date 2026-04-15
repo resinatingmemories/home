@@ -59,6 +59,9 @@ const IMAGE_MANIFEST = {
     "images/Globe Tea Light Candle Holder/01.webp",
     "images/Globe Tea Light Candle Holder/02.webp"
   ],
+  "Gold Vanity Tray": [
+    "images/Gold Vanity Tray/B5E315A7-8CD7-47AD-893A-42B3EA7BF303.webp"
+  ],
   "Heart 7": [
     "images/Heart 7/01.avif",
     "images/Heart 7/02.avif",
@@ -200,6 +203,9 @@ const IMAGE_MANIFEST = {
     "images/Square Coasters/03.webp",
     "images/Square Coasters/04.avif"
   ],
+  "Square Diamond Jewelry Jar": [
+    "images/Square Diamond Jewelry Jar/DFB44C42-B656-408C-A205-9FB18704D851.webp"
+  ],
   "Square Jewelry Dish": [
     "images/Square Jewelry Dish/01.avif"
   ],
@@ -245,5 +251,8 @@ const IMAGE_MANIFEST = {
   "XL Ring Holder": [
     "images/XL Ring Holder/01.webp",
     "images/XL Ring Holder/02.webp"
+  ],
+  "XL Sink Tray": [
+    "images/XL Sink Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp"
   ]
 };

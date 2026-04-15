@@ -243,6 +243,69 @@ const PRODUCTS = [
     ]
   },
 
+  {
+    id: 'xl-sink-tray',
+    category: 'trays',
+    nameRegular: 'XL Sink',
+    nameItalic: 'Tray',
+    desc: 'Oversized bathroom sink tray beautifully cast in resin.',
+    basePrice: 200,
+    image: 'images/XL Sink Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+    images: [
+      'images/XL Sink Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+      'images/XL Sink Tray/B5E315A7-8CD7-47AD-893A-42B3EA7BF303.webp',
+    ],
+    options: [
+      {
+        key: 'handleColor',
+        label: 'Handle Style',
+        type: 'select',
+        required: true,
+        choices: [
+          { label: 'Gold Handles',   value: 'Gold Handles'   },
+          { label: 'Silver Handles', value: 'Silver Handles' },
+          { label: 'Black Handles',  value: 'Black Handles'  },
+          { label: 'Diamond Knobs',  value: 'Diamond Knobs'  }
+        ]
+      },
+      {
+        key: 'leafAccent',
+        label: 'Leaf Accent (no charge)',
+        type: 'select',
+        choices: [
+          { label: 'None', value: 'None' },
+          { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Silver Leaf', value: 'Silver Leaf' }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'gold-vanity-tray',
+    category: 'trays',
+    nameRegular: 'Gold Vanity',
+    nameItalic: 'Tray',
+    desc: 'Glamorous gold vanity tray cast in resin.',
+    basePrice: 175,
+    image: 'images/Gold Vanity Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+    images: [
+      'images/Gold Vanity Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+      'images/Gold Vanity Tray/B5E315A7-8CD7-47AD-893A-42B3EA7BF303.webp',
+    ],
+    options: [
+      {
+        key: 'leafAccent',
+        label: 'Leaf Accent (no charge)',
+        type: 'select',
+        choices: [
+          { label: 'None', value: 'None' },
+          { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Silver Leaf', value: 'Silver Leaf' }
+        ]
+      }
+    ]
+  },
+
   // ────────────────────────────────────────────────
   // INITIALS, BOOKENDS & BLOCKS
   // ────────────────────────────────────────────────
@@ -987,6 +1050,32 @@ const PRODUCTS = [
     desc: 'Heart-shaped resin jewelry tray.',
     basePrice: 100,
     image: 'images/Heart Jewelry Dish/e3ab39_c2da5b41d67b40759c2cb133af69c651~mv2.avif',
+    options: [
+      {
+        key: 'leafAccent',
+        label: 'Leaf Accent (no charge)',
+        type: 'select',
+        choices: [
+          { label: 'None', value: 'None' },
+          { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Silver Leaf', value: 'Silver Leaf' }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'square-diamond-jewelry-jar',
+    category: 'jewelry',
+    nameRegular: 'Square Diamond',
+    nameItalic: 'Jewelry Jar',
+    desc: 'Square diamond-cut resin jewelry jar.',
+    basePrice: 100,
+    image: 'images/Square Diamond Jewelry Jar/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+    images: [
+      'images/Square Diamond Jewelry Jar/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp',
+      'images/Square Diamond Jewelry Jar/DFB44C42-B656-408C-A205-9FB18704D851.webp',
+      'images/Square Diamond Jewelry Jar/B5E315A7-8CD7-47AD-893A-42B3EA7BF303.webp',
+    ],
     options: [
       {
         key: 'leafAccent',
