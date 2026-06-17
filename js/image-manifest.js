@@ -45,7 +45,9 @@ const IMAGE_MANIFEST = {
     "images/Arched Block/01.webp"
   ],
   "Bookends 6.5": [
-    "images/Bookends 6.5/01.avif"
+    "images/Bookends 6.5/01.webp",
+    "images/Bookends 6.5/02.webp",
+    "images/Bookends 6.5/03.avif"
   ],
   "Desk Top Clock": [
     "images/Desk Top Clock/01.webp"
@@ -63,7 +65,7 @@ const IMAGE_MANIFEST = {
     "images/Globe Tea Light Candle Holder/02.webp"
   ],
   "Gold Vanity Tray": [
-    "images/Gold Vanity Tray/B5E315A7-8CD7-47AD-893A-42B3EA7BF303.webp"
+    "images/Gold Vanity Tray/01.webp"
   ],
   "Heart 7": [
     "images/Heart 7/01.avif",
@@ -84,14 +86,17 @@ const IMAGE_MANIFEST = {
     "images/Hexagon 10/04.webp"
   ],
   "Hexagon Vase 9": [
-    "images/Hexagon Vase 9/01.webp"
+    "images/Hexagon Vase 9/01.webp",
+    "images/Hexagon Vase 9/02.webp",
+    "images/Hexagon Vase 9/03.webp"
   ],
   "Hexagonal Tray 12": [
     "images/Hexagonal Tray 12/01.webp",
     "images/Hexagonal Tray 12/02.webp",
     "images/Hexagonal Tray 12/03.webp",
     "images/Hexagonal Tray 12/04.avif",
-    "images/Hexagonal Tray 12/05.avif"
+    "images/Hexagonal Tray 12/05.avif",
+    "images/Hexagonal Tray 12/06.webp"
   ],
   "Initial 7": [
     "images/Initial 7/01.avif",
@@ -194,7 +199,8 @@ const IMAGE_MANIFEST = {
     "images/Square Block/01.webp",
     "images/Square Block/02.webp",
     "images/Square Block/03.webp",
-    "images/Square Block/04.avif"
+    "images/Square Block/04.avif",
+    "images/Square Block/05.webp"
   ],
   "Square Coasters": [
     "images/Square Coasters/01.webp",
@@ -242,17 +248,19 @@ const IMAGE_MANIFEST = {
     "images/Wine Stoppers/01.webp",
     "images/Wine Stoppers/02.avif",
     "images/Wine Stoppers/03.webp",
-    "images/Wine Stoppers/04.avif"
+    "images/Wine Stoppers/04.avif",
+    "images/Wine Stoppers/05.webp"
   ],
   "Wooden Coasters": [
     "images/Wooden Coasters/2E6D66D8-64E0-449A-BDCD-730FBEB4D3A2.webp"
   ],
   "XL Ring Holder": [
     "images/XL Ring Holder/01.webp",
-    "images/XL Ring Holder/02.webp"
+    "images/XL Ring Holder/02.webp",
+    "images/XL Ring Holder/03.webp"
   ],
   "XL Sink Tray": [
-    "images/XL Sink Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp"
+    "images/XL Sink Tray/01.webp"
   ],
   "homepage": [
     "images/homepage/initial.webp",
