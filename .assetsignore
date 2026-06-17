@@ -1,0 +1,11 @@
+# Files that must NOT be uploaded as Cloudflare Workers static assets.
+# assets.directory in wrangler.jsonc is ".", so without this the whole
+# repo root is served — including the multi-MB .git directory, whose
+# packfiles exceed the 25 MiB per-asset limit (and would leak repo history).
+# Patterns use .gitignore syntax.
+.git
+.gitignore
+.assetsignore
+node_modules
+wrangler.jsonc
+sync-images.js
