@@ -986,12 +986,23 @@ footer {
 }
 .footer-social a:hover { opacity: 1; border-color: var(--pink); }
 .footer-bottom {
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem 1.5rem;
   padding-top: 1.5rem;
   border-top: 1px solid rgba(255,255,255,0.12);
   font-size: 0.75rem;
   opacity: 0.45;
 }
+.footer-credit a {
+  color: var(--offwhite);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+.footer-credit a:hover { color: var(--pink); }
 
 /* ══════════════════════════════════════════════════
    PAGE HERO (inner pages)
@@ -1070,6 +1081,7 @@ footer {
   .instagram-placeholder { grid-template-columns: repeat(3, 1fr); }
   .form-row { grid-template-columns: 1fr; }
   .products-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+  .footer-bottom { justify-content: center; }
 }
 
 @media (max-width: 540px) {

@@ -117,7 +117,7 @@ function buildProductCard(product) {
         </div>
         ${product.desc ? `<div class="product-desc">${product.desc}</div>` : ''}
         <div class="product-price">From $${product.basePrice}</div>
-        <div class="leaf-note">✦ Gold or Silver Leaf available — no charge</div>
+        <div class="leaf-note">✦ Gold, Rose Gold, or Silver Leaf available — no charge</div>
         <div class="product-options">${opts}</div>
         <button class="btn-add-cart" data-product-id="${product.id}">Add to Cart</button>
       </div>

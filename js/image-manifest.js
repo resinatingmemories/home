@@ -47,6 +47,9 @@ const IMAGE_MANIFEST = {
   "Bookends 6.5": [
     "images/Bookends 6.5/01.avif"
   ],
+  "Desk Top Clock": [
+    "images/Desk Top Clock/01.webp"
+  ],
   "Diamond Jewelry Jar": [
     "images/Diamond Jewelry Jar/e3ab39_8eb21c9278d343e9835a70480324162c~mv2.avif",
     "images/Diamond Jewelry Jar/e3ab39_bcbc07000f9f43a39e3cd13dc4939e1b~mv2.avif",
@@ -89,13 +92,6 @@ const IMAGE_MANIFEST = {
     "images/Hexagonal Tray 12/03.webp",
     "images/Hexagonal Tray 12/04.avif",
     "images/Hexagonal Tray 12/05.avif"
-  ],
-  "homepage": [
-    "images/homepage/initial.webp",
-    "images/homepage/jewelry.webp",
-    "images/homepage/resincoaster.webp",
-    "images/homepage/resintray.webp",
-    "images/homepage/winestopper.webp"
   ],
   "Initial 7": [
     "images/Initial 7/01.avif",
@@ -183,6 +179,9 @@ const IMAGE_MANIFEST = {
     "images/Round Coasters/11.avif",
     "images/Round Coasters/12.avif"
   ],
+  "Round Tray 12": [
+    "images/Round Tray 12/01.webp"
+  ],
   "Sink Tray": [
     "images/Sink Tray/01.webp",
     "images/Sink Tray/02.webp",
@@ -254,5 +253,12 @@ const IMAGE_MANIFEST = {
   ],
   "XL Sink Tray": [
     "images/XL Sink Tray/802D6B5A-A542-4ED6-86F3-65C9A846D178.webp"
+  ],
+  "homepage": [
+    "images/homepage/initial.webp",
+    "images/homepage/jewelry.webp",
+    "images/homepage/resincoaster.webp",
+    "images/homepage/resintray.webp",
+    "images/homepage/winestopper.webp"
   ]
 };

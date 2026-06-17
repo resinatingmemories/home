@@ -22,6 +22,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -38,6 +39,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -59,6 +61,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -75,6 +78,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -96,6 +100,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -112,6 +117,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -133,6 +139,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -149,6 +156,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -180,6 +188,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -196,6 +205,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -221,6 +231,7 @@ const PRODUCTS = [
         required: true,
         choices: [
           { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
           { label: 'Silver', value: 'Silver' },
           { label: 'Black', value: 'Black' }
         ]
@@ -237,6 +248,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -262,10 +274,11 @@ const PRODUCTS = [
         type: 'select',
         required: true,
         choices: [
-          { label: 'Gold Handles',   value: 'Gold Handles'   },
-          { label: 'Silver Handles', value: 'Silver Handles' },
-          { label: 'Black Handles',  value: 'Black Handles'  },
-          { label: 'Diamond Knobs',  value: 'Diamond Knobs'  }
+          { label: 'Gold Handles',      value: 'Gold Handles'      },
+          { label: 'Rose Gold Handles', value: 'Rose Gold Handles' },
+          { label: 'Silver Handles',    value: 'Silver Handles'    },
+          { label: 'Black Handles',     value: 'Black Handles'     },
+          { label: 'Diamond Knobs',     value: 'Diamond Knobs'     }
         ]
       },
       {
@@ -275,6 +288,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -300,6 +314,46 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
+          { label: 'Silver Leaf', value: 'Silver Leaf' }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'round-tray-12',
+    category: 'trays',
+    nameRegular: '12" Round',
+    nameItalic: 'Tray',
+    desc: 'Elegant round resin tray preserving your flowers in crystal-clear resin. Handle color & invitation available.',
+    basePrice: 500,
+    image: 'images/Round Tray 12/placeholder.svg',
+    options: [
+      {
+        key: 'handleColor',
+        label: 'Handle Color',
+        type: 'select',
+        required: true,
+        choices: [
+          { label: 'Gold', value: 'Gold' },
+          { label: 'Rose Gold', value: 'Rose Gold' },
+          { label: 'Silver', value: 'Silver' },
+          { label: 'Black', value: 'Black' }
+        ]
+      },
+      {
+        key: 'invitation',
+        label: 'Add an Invitation (no charge)',
+        type: 'checkbox'
+      },
+      {
+        key: 'leafAccent',
+        label: 'Leaf Accent (no charge)',
+        type: 'select',
+        choices: [
+          { label: 'None', value: 'None' },
+          { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -338,6 +392,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -359,6 +414,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -386,6 +442,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -407,6 +464,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -428,6 +486,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -453,6 +512,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -502,6 +562,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -540,6 +601,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -572,6 +634,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -608,6 +671,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -649,6 +713,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -698,6 +763,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -725,6 +791,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -746,6 +813,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -775,6 +843,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -796,6 +865,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -817,6 +887,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -838,6 +909,29 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
+          { label: 'Silver Leaf', value: 'Silver Leaf' }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'resin-desk-top-clock',
+    category: 'ornaments',
+    nameRegular: 'Resin Desk Top',
+    nameItalic: 'Clock',
+    desc: 'Functional desk top clock with preserved flowers cast in resin.',
+    basePrice: 200,
+    image: 'images/Desk Top Clock/placeholder.svg',
+    options: [
+      {
+        key: 'leafAccent',
+        label: 'Leaf Accent (no charge)',
+        type: 'select',
+        choices: [
+          { label: 'None', value: 'None' },
+          { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -874,6 +968,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -901,10 +996,11 @@ const PRODUCTS = [
         type: 'select',
         required: true,
         choices: [
-          { label: 'Gold Handles',   value: 'Gold Handles'   },
-          { label: 'Silver Handles', value: 'Silver Handles' },
-          { label: 'Black Handles',  value: 'Black Handles'  },
-          { label: 'Diamond Knobs',  value: 'Diamond Knobs'  }
+          { label: 'Gold Handles',      value: 'Gold Handles'      },
+          { label: 'Rose Gold Handles', value: 'Rose Gold Handles' },
+          { label: 'Silver Handles',    value: 'Silver Handles'    },
+          { label: 'Black Handles',     value: 'Black Handles'     },
+          { label: 'Diamond Knobs',     value: 'Diamond Knobs'     }
         ]
       },
       {
@@ -914,6 +1010,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -940,6 +1037,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -965,6 +1063,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -991,6 +1090,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -1016,6 +1116,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -1037,6 +1138,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -1058,6 +1160,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -1084,6 +1187,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }
@@ -1105,6 +1209,7 @@ const PRODUCTS = [
         choices: [
           { label: 'None', value: 'None' },
           { label: 'Gold Leaf', value: 'Gold Leaf' },
+          { label: 'Rose Gold Leaf', value: 'Rose Gold Leaf' },
           { label: 'Silver Leaf', value: 'Silver Leaf' }
         ]
       }

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"require\\('./js/products.js'\\); console.log\\('products.js parses OK'\\)\")",
+      "Bash(node --check js/products.js)",
+      "Bash(node --check js/store.js)",
+      "Bash(node -e ' *)",
+      "Bash(node sync-images.js)"
+    ]
+  }
+}
