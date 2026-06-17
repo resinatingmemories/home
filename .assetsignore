@@ -6,6 +6,7 @@
 .git
 .gitignore
 .assetsignore
+.claude
 node_modules
 wrangler.jsonc
 sync-images.js

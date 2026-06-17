@@ -5,3 +5,6 @@
 .env*
 !.env.example
 sync-images.js
+
+# Claude Code local settings (not for deploy)
+.claude/
