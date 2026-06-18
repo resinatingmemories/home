@@ -1,0 +1,12 @@
+# Normalize line endings: store text as LF in the repo and check out as LF,
+# regardless of the OS/editor. Stops the CRLF<->LF "whole file changed" noise.
+* text=auto eol=lf
+
+# Binary assets — never apply end-of-line conversion.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.avif binary
+*.webp binary
+*.gif  binary
+*.ico  binary
